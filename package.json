@@ -11,7 +11,7 @@
   "dependencies": {
     "turf-cli": "ingalls/turf-cli",
     "proj4": "^2.3.10",
-    "reproject": "^0.1.1",
+    "reproject": "^1.0.1",
     "tile-cover": "^2.4.1"
   }
 }
